@@ -7,4 +7,4 @@ An Alfred workflow which enables you to use a keyboard shortcut to go to the hom
 
 Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
 
-P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these workflows.
+P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this workflow.
