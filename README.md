@@ -6,6 +6,6 @@ An Alfred workflow which enables you to use a keyboard shortcut to go to the hom
 
 ## Install
 
-Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
+[Download](https://github.com/vinaywadhwa/Go-Home-Alfred/releases/download/1.0.0/Go.Home.Alfred.alfredworkflow) and open the workflow file using [Alfred](https://www.alfredapp.com/).
 
 P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this workflow.
