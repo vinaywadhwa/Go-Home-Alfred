@@ -9,6 +9,9 @@ An Alfred workflow which enables you to use a keyboard shortcut to go to the hom
 - Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
 - Get the latest release from here : https://github.com/vinaywadhwa/Go-Home-Alfred/releases
 
-
-
 P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this workflow.
+
+
+## Features
+- Go to the homepage of current website with a keyboard shortcut.
+- Supports Google Chrome, Safari & Brave browsers.
