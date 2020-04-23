@@ -6,8 +6,8 @@ An Alfred workflow which enables you to use a keyboard shortcut to go to the hom
 
 ## Install
 
-Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
-Get the latest release from here : https://github.com/vinaywadhwa/Go-Home-Alfred/releases
+- Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
+- Get the latest release from here : https://github.com/vinaywadhwa/Go-Home-Alfred/releases
 
 
 
