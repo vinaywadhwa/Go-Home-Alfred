@@ -19,6 +19,12 @@ UGHH! make it a keyboard shortcut with this Alfred workflow!
 P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this workflow.
 
 
-## Features
-- Go to the homepage of current website with a keyboard shortcut.
-- Supports Google Chrome, Safari & Brave browsers.
+## Browser Support
+- Safari
+- Google Chrome
+- Google Chrome Canary
+- Opera
+- Vivaldi
+- Brave Browser
+
+Note: Firefox not supported, for now, sorry!
