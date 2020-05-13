@@ -1,8 +1,7 @@
 # Go Home, Alfred
 An Alfred workflow which enables you to use a keyboard shortcut to go to the homepage of a website you are on.
 
-![Alfred Logo =250x](logo.png)
-![Alfred Logo](https://cloud.githubusercontent.com/assets/398893/3528722/5b5b30c6-0792-11e4-956d-750ac3a00bd8.png)
+![Go Home | Demo](go_home_demo.gif)
 
 Do you often get stuck deep inside the rabbit hole (of a website) and come out by either 
 - backspacing the URL a gazillian times to go to the home page 
