@@ -37,6 +37,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this wo
 - Open pull request with improvements
 - Spread the word
 - Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
+- Buy me a beer [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/vinaywadhwa)
 
 ## 🏅 License
 
